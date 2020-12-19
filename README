@@ -1,0 +1,7 @@
+Hello!!! you must of listened to my show.
+In this directory type "make" that should build sqlsig. You need lex and yacc
+aka flex and bison to compile this. After you compiled it use it like this:
+
+$ echo "select name from users" | ./sqlsig
+
+questions? comments? pantsbutt@gmail.com
